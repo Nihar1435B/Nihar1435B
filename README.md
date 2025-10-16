@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nihar Butani</h1>
-<h3 align="center">A passionate Full Stack Developer and DevOps Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Nihar Sakhreliya</h1>
+<h3 align="center">A passionate cybersecurity   Enthusiast from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihar1435b&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1435b" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Java, JavaScript, React, Node.js, and DevOps practices**.
 
-- 📫 How to reach me **nihar.butani.dev@gmail.com** - ⚡ Fun fact: I believe `Ctrl + S` is the most important key combination in the universe.
+- 📫 How to reach me **niarsakhreliya4@gmail.com** - ⚡ Fun fact: I believe `Ctrl + S` is the most important key combination in the universe.
 
 ---
 
