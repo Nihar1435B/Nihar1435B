@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nihar Sakhreliya</h1>
 <h3 align="center">A passionate cybersecurity   Enthusiast from India</h3>
 
+[![An image of @nihar1435b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nihar1435b)](https://holopin.io/@nihar1435b)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihar1435b&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1435b" /> </p>
 
 <p align="center">
